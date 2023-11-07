@@ -195,7 +195,59 @@ plt.show()
 
 ## DATA PREPROCESSING BEFORE FEATURE SELECTION:
 
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/3fc72cfb-ab43-4182-a741-9c567b22d0b8)
+
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/dc8d8c2a-ca9d-430b-9e99-45917b2b20b8)
+
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/b53fa55a-3906-4bcb-bbb5-8f7b543b17fc)
 
 
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/de4d3085-837b-4b7f-90f1-df557543f94c)
 
 
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/5e3cdd01-3435-4bc1-b084-6bef84bf4acf)
+
+
+## FEATURE SELECTION:
+## FILTER METHOD:
+
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/bf14fe20-e63f-4643-981b-6acb0bd399e5)
+
+
+## CORRELATED FEATURES WITH THE OUTPUT VARIABLE SURVIVED:
+
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/5993b004-7de2-4343-aad9-8dffa4d2989a)
+
+## HIGHLY CORRELATED FEATURES WITH THE OUTPUT VARIABLE SURVIVED:
+
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/0a80c5f6-60e6-4d29-ac86-0b3545081cb9)
+
+## WRAPPER METHOD:
+
+## BACKWARD ELIMINATION:
+
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/8c974ce3-d2f5-4623-abbf-08fdce95b5ef)
+
+
+## RFE (RECURSIVE FEATURE ELIMINATION):
+
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/6abf6d22-8ef6-4b47-a3da-e438234cdc91)
+
+
+## OPTIMUM NUMBER OF FEATURES THAT HAVE HIGH ACCURACY:
+
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/b1bb810f-80ac-4a00-b0ce-32aa1143de01)
+
+
+## FINAL SET OF FEATURE:
+
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/49a642ca-4a5b-41a3-acc8-1dcd7732aae9)
+
+
+## EMBEDDED METHOD:
+
+![image](https://github.com/Pavithraramasaamy/ODD2023-Datascience-Ex-07/assets/118596964/92e7cd76-4b68-4e0d-bc5d-4d865968e820)
+
+
+## RESULT:
+  Thus, the various feature selection techniques have been performed on a given dataset successfully.
